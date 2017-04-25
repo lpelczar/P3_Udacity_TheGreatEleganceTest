@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">The Great Elegance Test</string>
+    <string name="intro1">Welcome to the great elegance test!</string>
+    <string name="intro2">Do you really think that you know everything about elegance? Check out your knowledge and see what title you can get!</string>
+    <string name="intro3">This test contains 6 short questions and it takes about 3 minutes. Scroll down and have fun!</string>
+    <string name="question1">Can we wear short sleeved shirt with tie?</string>
+    <string name="question2">Which of these shoes are the most formal?</string>
+    <string name="question3">Which type of tuxedo can we wear with black tie?</string>
+    <string name="question4">Where goes properly knotted tie?</string>
+    <string name="question5">Which method of shoemaking allows the replacement of shoe sole?</string>
+    <string name="question6">How do we fasten the suit jacket, when it has three buttons?</string>
+    <string name="answer11">Yes.</string>
+    <string name="answer12">No.</string>
+    <string name="answer13">Yes, only in summer.</string>
+    <string name="answer21">Monks.</string>
+    <string name="answer22">Oxfords.</string>
+    <string name="answer23">Derby.</string>
+    <string name="answer31">All.</string>
+    <string name="answer32">None.</string>
+    <string name="answer33">Tuxedo with tail-coat lapels.</string>
+    <string name="answer41">To the navel.</string>
+    <string name="answer42">To the belt.</string>
+    <string name="answer43">Each side of the tie have to be equal.</string>
+    <string name="answer61">Every button.</string>
+    <string name="answer62">Only top button.</string>
+    <string name="answer63">Middle button.</string>
+    <string name="answer64">Possibly top button.</string>
+    <string name="number1">1/6</string>
+    <string name="number2">2/6</string>
+    <string name="number3">3/6</string>
+    <string name="number4">4/6</string>
+    <string name="number5">5/6</string>
+    <string name="number6">6/6</string>
+    <string name="hint">Type here your answer</string>
+    <string name="submit">Chceck your answers</string>
+</resources>
