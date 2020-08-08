@@ -4,7 +4,7 @@ Project 3: Quiz App - Design and implement a short quiz app about some topic you
 
 ## Screenshots
 
-![elegance1](https://discourse-cdn-sjc3.com/udacity/uploads/default/original/4X/b/c/a/bca1db9065d2a099f7d3d393489f5d41e09e0c16.png)
+<img src="https://raw.github.com/lpelczar/P3_Udacity_TheGreatEleganceTest/master/screenshots/p3-1.png" width="600">
 
-![elegance2](https://discourse-cdn-sjc3.com/udacity/uploads/default/original/4X/1/6/6/166c827f638004d35f4850e469b705ff0c869a76.png)
+<img src="https://raw.github.com/lpelczar/P3_Udacity_TheGreatEleganceTest/master/screenshots/p3-2.png" width="600">
 
